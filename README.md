@@ -1,4 +1,12 @@
-### Hi there 👋
+# Onkgopotse Lenake
+
+Hi, I'm **Onkgopotse** 👋. I am a developer at the Retail And Business Bank Insurance Department at Absa Group Limited. Software engineering enthusiastic, self-motivated, inspire greatness and responsible. Being a 🐬 in water is life.
+
+### How to reach me:
+
+- [Phone]<a href="tel:+27-72-687-0991">+27 (72) 687-0991</a>
+- [Email](mailto:hello@onkgopotselenake.me)
+- [Website](https://onkgopotselenake.me/)
 
 <!--
 **OLenake/OLenake** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
