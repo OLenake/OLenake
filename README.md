@@ -1,6 +1,6 @@
 # Hi there, I'm Onkgopotse 👋
 
-An engineer at the Retail And Business Bank Insurance Department at Absa Group Limited. Software engineering enthusiastic, self-motivated, inspire greatness and responsible. Being a 🐬 in water is life.
+An engineer at the Retail And Business Bank Insurance Department at Absa Group Limited. Self-motivated, inspire greatness and responsible. Being a 🐬 in water is life.
 
 I am also a community member at [DEV Community](https://dev.to/olenake), a constructive and inclusive social network, and looking to collaborate and learn on community projects.
 
