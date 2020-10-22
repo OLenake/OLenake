@@ -1,10 +1,19 @@
-# Hi there, I'm Onkgopotse 👋
+# OLenake's profile page
 
-An engineer at the Retail And Business Bank Insurance Department at Absa Group Limited. Self-motivated, inspire greatness and responsible. Being a 🐬 in water is life.
+This repository **OLenake/OLenake** is my ✨ _special_ ✨ profile page on [GitHub](https://github.com/). The page `README.md` (this file) is a summary of my background.
 
-I am also a community member at [DEV Community](https://dev.to/olenake), a constructive and inclusive social network, and looking to collaborate and learn on community projects.
+I'm a developer and currently work on financial and health insuranse at the Retail And Business Bank Insurance Department at [Absa Group Limited](https://www.absa.africa/absaafrica/).
+I write code on GitHub and looking to collaborate and share my thoughts on [DEV Community](https://dev.to/olenake), a constructive and inclusive social network.
 
-### How to reach me:
+I'm also a member @LenakeTech and @VisionDream, looking to add some of my best work and help with growth and opportunities.
+Being a 🐬 in water is life and I enjoy 🍻 , 📚 and nature.
+
+### Get in touch
+
+You can follow me on [Twitter](https://twitter.com/O_Lenake).
+Check out my work history on [LinkedIn](https://www.linkedin.com/in/olenake/).
+
+Thanks for stopping by and I'd love to hear from you.! 😅
 
 - [Email](mailto:hello@onkgopotselenake.me)
 - [Website](https://onkgopotselenake.me/)
@@ -22,4 +31,8 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+Hi there, I'm Onkgopotse 👋
+Self-motivated, inspire greatness and responsible.
+See my work history on LinkedIn [LinkedIn](https://twitter.com/O_Lenake).
 -->
