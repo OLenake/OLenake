@@ -1,17 +1,14 @@
-# Hello, I'm Onkgopotse
+# Hello there, coders 👋
 
-A developer at [Absa Group](https://www.absa.africa/absaafrica/), with specialities in diversified financial services as well as wealth and investment management insurance systems.
-
+I'm currently a developer at **Absa Group**, with specialities in diversified financial services as well as wealth and investment management insurance systems.
 I'm also a member @LenakeTech and @VisionDream, looking to add some of my best work and help with growth and opportunities.
 
-### Get in touch
-
-You can follow me on [Twitter](https://twitter.com/O_Lenake) and check out my work history on [LinkedIn](https://www.linkedin.com/in/olenake/).
-
-Feel free to get in touch and I'd love to hear from you
+### Feel free to get in touch
 
 - [Email](mailto:hello@onkgopotselenake.me)
 - [Website](https://onkgopotselenake.me/)
+
+I'd love to hear from you! 😅
 
 <!--
 **OLenake/OLenake** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
