@@ -1,18 +1,14 @@
-# Hi, I'm Onkgopotse
+# Hello, I'm Onkgopotse
 
-I'm a Software Developer at [Absa Group](https://www.absa.africa/absaafrica/), with specialities in financial services as well as wealth and investment management insurance systems.
-
-I write code on GitHub and looking to collaborate and share my thoughts on [DEV Community](https://dev.to/olenake), a constructive and inclusive social network.
+A developer at [Absa Group](https://www.absa.africa/absaafrica/), with specialities in diversified financial services as well as wealth and investment management insurance systems.
 
 I'm also a member @LenakeTech and @VisionDream, looking to add some of my best work and help with growth and opportunities.
-Being a 🐬 in water is life and I enjoy 🍻 , 📚 and nature.
 
 ### Get in touch
 
-You can follow me on [Twitter](https://twitter.com/O_Lenake).
-Check out my work history on [LinkedIn](https://www.linkedin.com/in/olenake/).
+You can follow me on [Twitter](https://twitter.com/O_Lenake) and check out my work history on [LinkedIn](https://www.linkedin.com/in/olenake/).
 
-Thanks for stopping by and I'd love to hear from you! 😅
+Feel free to get in touch and I'd love to hear from you
 
 - [Email](mailto:hello@onkgopotselenake.me)
 - [Website](https://onkgopotselenake.me/)
