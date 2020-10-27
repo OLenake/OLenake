@@ -1,6 +1,6 @@
 ### Hello coders
 
-I'm a developer at **Absa Group**, specialising in financial services as well as wealth and investment management insurance systems.
+I'm a software developer at **Absa Group**, specialising in financial services as well as wealth and investment management insurance systems.
 I'm also a member @LenakeTech and @VisionDream, looking to add some of my best work and help with growth and opportunities.
 
 Feel free to get in touch
