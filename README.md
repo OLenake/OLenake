@@ -1,9 +1,9 @@
-# Hello there, coders 👋
+### Hello coders
 
-I'm currently a developer at **Absa Group**, with specialities in diversified financial services as well as wealth and investment management insurance systems.
+I'm a developer at **Absa Group**, specialising in financial services as well as wealth and investment management insurance systems.
 I'm also a member @LenakeTech and @VisionDream, looking to add some of my best work and help with growth and opportunities.
 
-### Feel free to get in touch
+Feel free to get in touch
 
 - [Email](mailto:hello@onkgopotselenake.me)
 - [Website](https://onkgopotselenake.me/)
