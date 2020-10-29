@@ -1,6 +1,6 @@
 ### Hello, fellow coders
 
-I'm a software developer at **Absa Group**, specialising in financial services as well as life insurance systems. I'm also a member @LenakeTech and @VisionDream, looking to add some of my best work and help with growth and opportunities.
+I'm a **Software Developer** at [Absa Group](https://www.absa.africa/absaafrica/), specialising in financial services as well as life insurance systems. I'm also a member @LenakeTech and @VisionDream, looking to add some of my best work and help with growth and opportunities.
 
 Feel free to get in touch
 
