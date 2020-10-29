@@ -1,10 +1,10 @@
-### Hello, fellow coders
+# Hello coders, I'm Onkgopotse
 
 I'm a **Software Developer** at [Absa Group](https://www.absa.africa/absaafrica/), specialising in financial services as well as life insurance systems. I'm also a member @LenakeTech and @VisionDream, looking to add some of my best work and help with growth and opportunities.
 
 Feel free to get in touch
 
-- [Email](mailto:hello@onkgopotselenake.me)
+- [Email](mailto:onkgopotse@onkgopotselenake.me)
 - [Website](https://onkgopotselenake.me/)
 
 I'd love to hear from you! 😅
