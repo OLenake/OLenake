@@ -1,10 +1,13 @@
 # Hey there, I'm Onkgopotse - aka [OLenake](https://github.com/OLenake) 👋😎
 
+## About me
+
 I'm an aspiring **Software Engineer** residing in Gauteng, South Africa, with full stack engineering visionary lead. I specialise in financial services as well as life insurance systems at [Absa Group](https://www.absa.africa/absaafrica/). I'm also a member @LenakeTech, @VisionDream and @Bmmj, and a self-taught UI/UX designer.
 
-Feel free to get in touch
+## 🙋 Connect with me:
 
 - [Twitter](https://twitter.com/O_Lenake)
+- [LinkedIn](https://www.linkedin.com/in/olenake/)
 - [Email](mailto:onkgopotse@onkgopotselenake.me)
 - [Website](https://onkgopotselenake.me/)
 
