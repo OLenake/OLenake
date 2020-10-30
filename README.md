@@ -1,13 +1,14 @@
-# Hello coders, I'm Onkgopotse
+# Hey there, I'm Onkgopotse - aka [OLenake](https://github.com/OLenake) 👋😎
 
-I'm a **Software Developer** at [Absa Group](https://www.absa.africa/absaafrica/), specialising in financial services as well as life insurance systems. I'm also a member @LenakeTech and @VisionDream, looking to add some of my best work and help with growth and opportunities.
+I'm an aspiring **Software Engineer** residing in Gauteng, South Africa, with full stack engineering visionary lead. I specialise in financial services as well as life insurance systems at [Absa Group](https://www.absa.africa/absaafrica/). I'm also a member @LenakeTech, @VisionDream and @Bmmj, and a self-taught UI/UX designer.
 
 Feel free to get in touch
 
+- [Twitter](https://twitter.com/O_Lenake)
 - [Email](mailto:onkgopotse@onkgopotselenake.me)
 - [Website](https://onkgopotselenake.me/)
 
-I'd love to hear from you! 😅
+I'd love to hear from you! 👌
 
 <!--
 **OLenake/OLenake** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -24,6 +25,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 
 Hi there, I'm Onkgopotse 👋
+I'd love to hear from you! 😅
 The repository **OLenake/OLenake** is my ✨ _special_ ✨ profile page on [GitHub](https://github.com/). The page `README.md` (this file) is a summary of my background.
 Self-motivated, inspire greatness and responsible.
 See my work history on LinkedIn [LinkedIn](https://twitter.com/O_Lenake).
