@@ -6,13 +6,14 @@ An engineer with UI/UX design passion.
 
 - [Email](mailto:onkgopotse@onkgopotselenake.me)
 - [Website](https://onkgopotselenake.me/)
-- [LinkedIn](https://www.linkedin.com/in/olenake/)
-- [Twitter](https://twitter.com/O_Lenake)
 
 <!--
 **OLenake/OLenake** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 I'm a software engineer based in Gauteng, South Africa. I enjoy building things for the web and currently specializing in financial services as well as investment management and insurance systems at [Absa Group](https://www.absa.africa/absaafrica/). I'm also a member at [DEV Community](https://dev.to/olenake), @LenakeTech, @VisionDream and @Bmmj. I'm a self-taught UI/UX designer and learning towards being a full-stack engineer.
+
+- [LinkedIn](https://www.linkedin.com/in/olenake/)
+- [Twitter](https://twitter.com/O_Lenake)
 
 Here are some ideas to get you started:
 
