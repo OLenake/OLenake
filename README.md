@@ -1,6 +1,6 @@
 ### Hi, I'm Onkgopotse - aka [OLenake](https://github.com/OLenake) 👋
 
-Software Engineer with passion for design, development and innovation.
+An engineer based in Gauteng, SA with passion for design, development and innovation.
 
 ### 🙋 Connect with me:
 
