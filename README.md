@@ -1,11 +1,14 @@
-### 👋 Hello, I'm Onkgopotse - aka [OLenake](https://github.com/OLenake)
+### 👋 Hi, I'm [Onkgopotse](https://github.com/OLenake)
 
-An engineer with UI/UX design passion.
+- 🛠️ Developer at Absa Group.
+- 🌱 Self-taught and passionate UI/UX designer.
+- 🔭 Software engineering expertise, with focus on C#, SQL, .Net Core + Angular.
 
-### 🙋 Connect with me:
+### 📡 Let's Connect
 
-- [Email](mailto:onkgopotse@onkgopotselenake.me)
-- [Website](https://onkgopotselenake.me/)
+- 📧 [Email](mailto:onkgopotse@onkgopotselenake.me)
+- 🌐 [Website](https://onkgopotselenake.me/)
+- 🎓 [LinkedIn](https://www.linkedin.com/in/olenake/)
 
 <!--
 **OLenake/OLenake** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -25,6 +28,26 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+🌐 :globe_with_meridians:
+📡 :satellite:
+✉️ :email:
+📧 :e-mail:
+✉️ :envelope:
+🔗 :link:
+©️ :copyright:
+
+®️ :registered:
+™️ :tm:
+🚀 :rocket:
+📎 :paperclip:
+🎓 :mortar_board:
+### 🙋 Let's Connect
+
+### 👋 Hello, I'm Onkgopotse - aka [OLenake](https://github.com/OLenake)
+## 🛠 Installation & Set Up
+1. Install the Gatsby CLI
+
+🛠️ creatin' some stuff
 
 Hi there, I'm Onkgopotse 👋😎
 I'd love to hear from you! 😅👌
