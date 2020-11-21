@@ -2,7 +2,7 @@
 
 - 🛠️ Developer at Absa Group.
 - 🔭 Software engineering expertise.
-- 🌱 Passionate UI/UX designer with focus on C#, SQL, .Net Core + Angular.
+- 🌱 Self-taught and passionate UI/UX designer.
 
 ### 📡 Let's Connect
 
