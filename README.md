@@ -1,6 +1,6 @@
-### 👋 Hi, I'm Onkgopotse - aka [OLenake](https://github.com/OLenake)
+### 👋 Hello, I'm Onkgopotse - aka [OLenake](https://github.com/OLenake)
 
-A engineer with UI/UX design passion.
+An engineer with UI/UX design passion.
 
 ### 🙋 Connect with me:
 
