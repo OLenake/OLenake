@@ -1,16 +1,27 @@
 ### 👋 Hi, I'm [Onkgopotse](https://github.com/OLenake)
 
+- 🛠️ Developer at Absa Group
+- 🔭 Software engineering expertise, passionate UI/UX designer, with focus on C#, SQL, .Net Core + Angular.
+
+## 📡 Let's Connect
+
+- 🌐 [Website](https://onkgopotselenake.me/)
+- 🎓 [LinkedIn](https://www.linkedin.com/in/olenake/)
+
+<!--
+
+### 👋 Hi, I'm [Onkgopotse](https://github.com/OLenake)
+
 - 🛠️ Developer at Absa Group.
 - 🌱 Self-taught and passionate UI/UX designer.
 - 🔭 Software engineering expertise, with focus on C#, SQL, .Net Core + Angular.
 
-### 📡 Let's Connect
+## 📡 Let's Connect
 
 - 📧 [Email](mailto:onkgopotse@onkgopotselenake.me)
 - 🌐 [Website](https://onkgopotselenake.me/)
 - 🎓 [LinkedIn](https://www.linkedin.com/in/olenake/)
 
-<!--
 **OLenake/OLenake** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 I'm a software engineer based in Gauteng, South Africa. I enjoy building things for the web and currently specializing in financial services as well as investment management and insurance systems at [Absa Group](https://www.absa.africa/absaafrica/). I'm also a member at [DEV Community](https://dev.to/olenake), @LenakeTech, @VisionDream and @Bmmj. I'm a self-taught UI/UX designer and learning towards being a full-stack engineer.
