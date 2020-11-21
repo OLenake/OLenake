@@ -1,13 +1,15 @@
-### 👋 Hi, I'm [Onkgopotse](https://github.com/OLenake)
+<h1>
+  👋 Hi, I'm <a href="https://github.com/OLenake">Onkgopotse (aka: @OLenake)</a>
+</h1>
 
 - 🛠️ Developer at Absa Group.
 - 🔭 Software engineering expertise.
 - 🌱 Self-taught and passionate UI/UX designer.
 
-### 📡 Let's Connect
-
-- 🌐 [Website](https://onkgopotselenake.me/)
-- 🎓 [LinkedIn](https://www.linkedin.com/in/olenake/)
+----
+> 🌐 Onkgopotse Lenake: [www.onkgopotselenake.me](https://www.onkgopotselenake.me/) &nbsp;&middot;&nbsp;
+> 🎓 LinkedIn: [@OLenake](https://www.linkedin.com/in/OLenake) &nbsp;&middot;&nbsp;
+> Twitter: [@OLenake](https://twitter.com/O_Lenake)
 
 <!--
 
@@ -23,6 +25,7 @@
 - 🌐 [Website](https://onkgopotselenake.me/)
 - 🎓 [LinkedIn](https://www.linkedin.com/in/olenake/)
 
+**Onkgopotse Lenake (aka: OLenake)**
 **OLenake/OLenake** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 I'm a software engineer based in Gauteng, South Africa. I enjoy building things for the web and currently specializing in financial services as well as investment management and insurance systems at [Absa Group](https://www.absa.africa/absaafrica/). I'm also a member at [DEV Community](https://dev.to/olenake), @LenakeTech, @VisionDream and @Bmmj. I'm a self-taught UI/UX designer and learning towards being a full-stack engineer.
