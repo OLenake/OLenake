@@ -1,7 +1,8 @@
 ### 👋 Hi, I'm [Onkgopotse](https://github.com/OLenake)
 
 - 🛠️ Developer at Absa Group.
-- 🔭 Software engineering expertise, passionate UI/UX designer, with focus on C#, SQL, .Net Core + Angular.
+- 🔭 Software engineering expertise.
+- 🌱 Passionate UI/UX designer with focus on C#, SQL, .Net Core + Angular.
 
 ### 📡 Let's Connect
 
