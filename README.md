@@ -3,7 +3,7 @@
 - 🛠️ Developer at Absa Group
 - 🔭 Software engineering expertise, passionate UI/UX designer, with focus on C#, SQL, .Net Core + Angular.
 
-## 📡 Let's Connect
+### 📡 Let's Connect
 
 - 🌐 [Website](https://onkgopotselenake.me/)
 - 🎓 [LinkedIn](https://www.linkedin.com/in/olenake/)
