@@ -2,16 +2,13 @@
   👋 Hi, I'm <a href="https://github.com/OLenake">Onkgopotse (aka: @OLenake)</a>
 </h1>
 
-<p align="left">
-  - 🛠️ Developer at Absa Group.
-  - 🔭 Software engineering expertise.
-  - 🌱 Self-taught and passionate UI/UX designer.
-</p>
+- 🛠️ Developer at Absa Group.
+- 🔭 Software engineering expertise.
+- 🌱 Self-taught and passionate UI/UX designer.
 
-<small align="left">
-  > 🌐 Onkgopotse Lenake: [www.onkgopotselenake.me](https://www.onkgopotselenake.me/) &nbsp;&middot;&nbsp;
-  > 🎓 LinkedIn: [@OLenake](https://www.linkedin.com/in/OLenake) &nbsp;&middot;&nbsp;
-</small>
+----
+> 🌐 Onkgopotse Lenake: [www.onkgopotselenake.me](https://www.onkgopotselenake.me/) &nbsp;&middot;&nbsp;
+> 🎓 LinkedIn: [@OLenake](https://www.linkedin.com/in/OLenake) &nbsp;&middot;&nbsp;
 
 <!--
 
