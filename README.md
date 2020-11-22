@@ -1,9 +1,9 @@
 <h1 align="left">
-  👋 Hi, I'm <a href="https://github.com/OLenake">Onkgopotse (aka: @OLenake)</a>
+  👋 Hi, I'm Onkgopotse - aka: <a href="https://github.com/OLenake">@OLenake</a>
 </h1>
 
-- 🛠️ Developer at Absa Group, specializing in financial services systems.
-- 🔭 Software engineering expertise, self-taught and passionate UI/UX designer, with focus on frontend and backend development.
+- 🛠️ Software engineer specializing in financial services at Absa Group.
+- 🔭 Self-taught and passionate UI/UX designer.
 
 <hr>
 
