@@ -6,8 +6,8 @@
 - 🔭 Self-taught and passionate UI/UX designer.
 
 ----
-✉️ **Email:** [Onkgopotse at OnkgopotseLenake.me](mailto:onkgopotse@onkgopotselenake.me) &nbsp;&middot;&nbsp;
-🔗 **Website:** [OnkgopotseLenake.me](https://www.onkgopotselenake.me/) &nbsp;&middot;&nbsp;
+©️ 2020 Onkgopotse Lenake - ✉️ **Email:** [@Onkgopotse](mailto:onkgopotse@onkgopotselenake.me) &nbsp;&middot;&nbsp;
+🔗 **Website:** [Onkgopotse Lenake](https://www.onkgopotselenake.me/) &nbsp;&middot;&nbsp;
 🎓 **LinkedIn:** [@OLenake](https://www.linkedin.com/in/OLenake)
 
 <!--
