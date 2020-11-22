@@ -7,7 +7,7 @@
 
 ----
 ✉️ **Email:** [Onkgopotse at OnkgopotseLenake.me](mailto:onkgopotse@onkgopotselenake.me) &nbsp;&middot;&nbsp;
-🔗 **Website:** [www.OnkgopotseLenake.me](https://www.onkgopotselenake.me/) &nbsp;&middot;&nbsp;
+🔗 **Website:** [OnkgopotseLenake.me](https://www.onkgopotselenake.me/) &nbsp;&middot;&nbsp;
 🎓 **LinkedIn:** [@OLenake](https://www.linkedin.com/in/OLenake)
 
 <!--
