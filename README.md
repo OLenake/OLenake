@@ -5,7 +5,8 @@
 - 🛠️ Developer at Absa Group, specializing in financial services systems.
 - 🔭 Software engineering expertise, self-taught and passionate UI/UX designer, with focus on frontend and backend development.
 
-----
+<hr>
+
 🌐 Onkgopotse Lenake: [www.onkgopotselenake.me](https://www.onkgopotselenake.me/) &nbsp;&middot;&nbsp;
 🎓 LinkedIn: [@OLenake](https://www.linkedin.com/in/OLenake)
 
