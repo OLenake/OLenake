@@ -7,9 +7,8 @@
 - 🌱 Self-taught and passionate UI/UX designer.
 
 ----
-> 🌐 Onkgopotse Lenake: [www.onkgopotselenake.me](https://www.onkgopotselenake.me/) &nbsp;&middot;&nbsp;
-> 🎓 LinkedIn: [@OLenake](https://www.linkedin.com/in/OLenake) &nbsp;&middot;&nbsp;
-> Twitter: [@OLenake](https://twitter.com/O_Lenake)
+> Onkgopotse Lenake: [www.onkgopotselenake.me](https://www.onkgopotselenake.me/) &nbsp;&middot;&nbsp;
+> LinkedIn: [@OLenake](https://www.linkedin.com/in/OLenake) &nbsp;&middot;&nbsp;
 
 <!--
 
