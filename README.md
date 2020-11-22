@@ -1,14 +1,17 @@
-<h1>
+<h1 align="left">
   👋 Hi, I'm <a href="https://github.com/OLenake">Onkgopotse (aka: @OLenake)</a>
 </h1>
 
-- 🛠️ Developer at Absa Group.
-- 🔭 Software engineering expertise.
-- 🌱 Self-taught and passionate UI/UX designer.
+<p align="left">
+  - 🛠️ Developer at Absa Group.
+  - 🔭 Software engineering expertise.
+  - 🌱 Self-taught and passionate UI/UX designer.
+</p>
 
-----
-> Onkgopotse Lenake: [www.onkgopotselenake.me](https://www.onkgopotselenake.me/) &nbsp;&middot;&nbsp;
-> LinkedIn: [@OLenake](https://www.linkedin.com/in/OLenake) &nbsp;&middot;&nbsp;
+<small align="left">
+  > 🌐 Onkgopotse Lenake: [www.onkgopotselenake.me](https://www.onkgopotselenake.me/) &nbsp;&middot;&nbsp;
+  > 🎓 LinkedIn: [@OLenake](https://www.linkedin.com/in/OLenake) &nbsp;&middot;&nbsp;
+</small>
 
 <!--
 
