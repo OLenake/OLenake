@@ -2,7 +2,7 @@
   👋 Hi, I'm Onkgopotse - aka: <a href="https://github.com/OLenake">@OLenake</a>
 </h1>
 
-- 🛠️ Software engineer specializing in financial services at Absa Group.
+- 🛠️ An engineer specializing in financial services at Absa Group.
 - 🔭 Self-taught and passionate UI/UX designer.
 
 <hr>
