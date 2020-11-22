@@ -2,13 +2,12 @@
   👋 Hi, I'm <a href="https://github.com/OLenake">Onkgopotse (aka: @OLenake)</a>
 </h1>
 
-- 🛠️ Developer at Absa Group.
-- 🔭 Software engineering expertise.
-- 🌱 Self-taught and passionate UI/UX designer.
+- 🛠️ Developer at Absa Group, specializing in financial services systems.
+- 🔭 Software engineering expertise, self-taught and passionate UI/UX designer, with focus on frontend and backend development.
 
 ----
-> 🌐 Onkgopotse Lenake: [www.onkgopotselenake.me](https://www.onkgopotselenake.me/) &nbsp;&middot;&nbsp;
-> 🎓 LinkedIn: [@OLenake](https://www.linkedin.com/in/OLenake) &nbsp;&middot;&nbsp;
+🌐 Onkgopotse Lenake: [www.onkgopotselenake.me](https://www.onkgopotselenake.me/) &nbsp;&middot;&nbsp;
+🎓 LinkedIn: [@OLenake](https://www.linkedin.com/in/OLenake)
 
 <!--
 
