@@ -5,11 +5,10 @@
 - 🛠️ Software engineer specializing in financial services at Absa Group.
 - 🔭 Self-taught and passionate UI/UX designer.
 
-```sh
-> ✉️ **Onkgopotse at OnkgopotseLenake.me** &nbsp;&middot;&nbsp;
-> 🔗 [www.onkgopotselenake.me](https://www.onkgopotselenake.me/) &nbsp;&middot;&nbsp;
-> 🎓 [@OLenake](https://www.linkedin.com/in/OLenake)
-```sh
+----
+✉️ **Onkgopotse at OnkgopotseLenake.me** &nbsp;&middot;&nbsp;
+🔗 [www.onkgopotselenake.me](https://www.onkgopotselenake.me/) &nbsp;&middot;&nbsp;
+🎓 [@OLenake](https://www.linkedin.com/in/OLenake)
 
 <!--
 
