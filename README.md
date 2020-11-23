@@ -1,6 +1,4 @@
-<h1 align="left">
-  👋 Hi, I'm [Onkgopotse](https://github.com/OLenake)
-</h1>
+# 👋 Hi, I'm [Onkgopotse](https://github.com/OLenake)
 
 - 🛠️ An engineer specializing in financial services systems **@AbsaGroup**.
 - 🔭 Self-taught and passionate UI/UX designer.
@@ -12,6 +10,10 @@
 > 🎓 **LinkedIn:** [@OLenake](https://www.linkedin.com/in/OLenake)
 
 <!--
+
+<h1 align="left">
+  👋 Hi, I'm [Onkgopotse](https://github.com/OLenake)
+</h1>
 
 ### 👋 Hi, I'm [Onkgopotse](https://github.com/OLenake)
 
