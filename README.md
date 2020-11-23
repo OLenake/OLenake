@@ -1,7 +1,7 @@
 # 👋 Hi, I'm [Onkgopotse](https://github.com/OLenake)
 
-- 🛠️ Software Engineer, specializing in financial services systems **@AbsaGroup**.
-- 🔭 Self-taught and passionate UI/UX designer.
+- 🛠️ Software engineer, specializing in financial services systems **@AbsaGroup**.
+- 🔭 UI/UX designer, expertise in .Net Core, Javascript, front-end and back-end.
 
 <hr>
 
