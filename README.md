@@ -1,11 +1,11 @@
 # 👋 Hi, I'm [Onkgopotse](https://github.com/OLenake)
 
-- 🛠️ Software engineer, specializing in financial services systems **@AbsaGroup**.
+- 🛠️ Software engineer, specializing in financial services systems at **Absa Group**.
 - 🔭 UI/UX designer, expertise in .Net Core, Javascript, front-end and back-end.
 
 <hr>
 
-> ©️ 2020 Onkgopotse Lenake - ✉️ **Email:** [@Onkgopotse](mailto:onkgopotse@onkgopotselenake.me) &nbsp;&middot;&nbsp;
+> ✉️ **Email:** [@Onkgopotse](mailto:onkgopotse@onkgopotselenake.me) &nbsp;&middot;&nbsp;
 > 🔗 **Website:** [OnkgopotseLenake.me](https://www.onkgopotselenake.me/) &nbsp;&middot;&nbsp;
 > 🎓 **LinkedIn:** [@OLenake](https://www.linkedin.com/in/OLenake)
 
@@ -20,6 +20,11 @@
 - 🛠️ Developer at Absa Group.
 - 🌱 Self-taught and passionate UI/UX designer.
 - 🔭 Software engineering expertise, with focus on C#, SQL, .Net Core + Angular.
+
+> ✉️ **Email:** [Onkgopotse at OnkgopotseLenake.me](mailto:onkgopotse@onkgopotselenake.me) &nbsp;&middot;&nbsp;
+> ©️ 2020 Onkgopotse Lenake - ✉️ **Email:** [@Onkgopotse](mailto:onkgopotse@onkgopotselenake.me) &nbsp;&middot;&nbsp;
+> 🔗 **Website:** [OnkgopotseLenake.me](https://www.onkgopotselenake.me/) &nbsp;&middot;&nbsp;
+> 🎓 **LinkedIn:** [@OLenake](https://www.linkedin.com/in/OLenake)
 
 ## 📡 Let's Connect
 
