@@ -3,11 +3,10 @@
 - 🛠️ Software engineer, specializing in financial services systems at **Absa Group**.
 - 🔭 UI/UX designer, expertise in .Net Core, Javascript, front-end and back-end.
 
-<hr>
-
-✉️ **Email:** [@Onkgopotse](mailto:onkgopotse@onkgopotselenake.me) &nbsp;&middot;&nbsp;
-🔗 **Website:** [OnkgopotseLenake.me](https://www.onkgopotselenake.me/) &nbsp;&middot;&nbsp;
-🎓 **LinkedIn:** [@OLenake](https://www.linkedin.com/in/OLenake)
+----
+> ✉️ **Email:** [@Onkgopotse](mailto:onkgopotse@onkgopotselenake.me) &nbsp;&middot;&nbsp;
+> 🔗 **Website:** [OnkgopotseLenake.me](https://www.onkgopotselenake.me/) &nbsp;&middot;&nbsp;
+> 🎓 **LinkedIn:** [@OLenake](https://www.linkedin.com/in/OLenake)
 
 <!--
 
