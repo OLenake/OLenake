@@ -1,5 +1,5 @@
 <h1 align="left">
-  👋 Hi, I'm Onkgopotse - aka: <a href="https://github.com/OLenake">@OLenake</a>
+  👋 Hi, I'm [Onkgopotse](https://github.com/OLenake)
 </h1>
 
 - 🛠️ An engineer specializing in financial services systems **@AbsaGroup**.
