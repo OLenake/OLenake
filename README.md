@@ -1,12 +1,14 @@
 # 👋 Hi, I'm [Onkgopotse](https://github.com/OLenake)
 
-- 🛠️ Software engineer, specializing in financial services systems at **Absa Group**.
-- 🔭 UI/UX designer, expertise in .Net Core, Javascript, front-end and back-end.
+- 🛠️ Software Engineer.
+- ✨ Currently specializing in financial services systems at **Absa Group**.
+- 🔭 UI/UX Designer.
+- ⚡ Expertise in .Net Core, Javascript, front-end and back-end.
 
 ----
-> ✉️ **Email:** [@Onkgopotse](mailto:onkgopotse@onkgopotselenake.me) &nbsp;&middot;&nbsp;
-> 🔗 **Website:** [OnkgopotseLenake.me](https://www.onkgopotselenake.me/) &nbsp;&middot;&nbsp;
-> 🎓 **LinkedIn:** [@OLenake](https://www.linkedin.com/in/OLenake)
+> ✉️ [Onkgopotse at OnkgopotseLenake.me](mailto:onkgopotse@onkgopotselenake.me) &nbsp;&middot;&nbsp;
+> 🔗 [OnkgopotseLenake.me](https://www.onkgopotselenake.me/) &nbsp;&middot;&nbsp;
+> 🎓 [@OLenake](https://www.linkedin.com/in/OLenake)
 
 <!--
 
