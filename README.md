@@ -1,7 +1,7 @@
 # 👋 Hello, I'm Onkgopotse
 
 - 🛠️ Software Engineer and Designer, specializing in financial services systems at **Absa Group**.
-- ⚡ Expertise in .Net Core + Angular, Javascript, front-end and back-end.
+- ⚡ Expertise in C#, SQL, .Net Core + Angular, Javascript, front-end and back-end.
 
 ----
 **Website:** [OnkgopotseLenake.me](https://www.onkgopotselenake.me/) &nbsp;&middot;&nbsp;
