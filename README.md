@@ -4,8 +4,8 @@
 - ⚡ Expertise in .Net Core + Angular, Javascript, front-end and back-end.
 
 ----
-🔗 [OnkgopotseLenake.me](https://www.onkgopotselenake.me/) &nbsp;&middot;&nbsp;
-🎓 [@OLenake](https://www.linkedin.com/in/OLenake)
+**Website:** [OnkgopotseLenake.me](https://www.onkgopotselenake.me/) &nbsp;&middot;&nbsp;
+**LinkedIn:** [@OLenake](https://www.linkedin.com/in/OLenake)
 
 <!--
 
