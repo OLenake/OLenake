@@ -1,13 +1,17 @@
-# 👋 Hi there, meet [Onkgopotse](https://github.com/OLenake)
+# 👋 Hey, meet [Onkgopotse (OLenake)](https://github.com/OLenake)
 
-- 🛠️ Software Engineer, Designer, Visionary. Currently specialize in financial services systems at **Absa Group**.
-- ⚡ Expertise in C#, SQL, .Net Core + Angular, Javascript, front-end and back-end.
+- 🛠️ Software Engineer, Designer, Visionary. Currently specializing in financial services technology at **Absa Group**.
+- ⚡ Expertise in C#, SQL, Python, .Net Core + Angular, Typescript, Javascript, HTML and CSS.
 
 ----
-**Website:** [OnkgopotseLenake.me](https://www.onkgopotselenake.me/) &nbsp;&middot;&nbsp;
-**LinkedIn:** [@OLenake](https://www.linkedin.com/in/OLenake)
+> **Say Hello:** [Onkgopotse Lenake](https://www.onkgopotselenake.me/) &nbsp;-&nbsp;
+> **Let's Connect:** [@LinkedIn](https://www.linkedin.com/in/OLenake) &nbsp;&middot;&nbsp;
+> **Let's Connect:** [@DEVCommunity](https://dev.to/olenake) &nbsp;&middot;&nbsp;
+> [@Twitter](https://twitter.com/O_Lenake)
 
 <!--
+
+Interest in software engineering. Likes 🍻 , 📚 and nature. Being a 🐬 in water is life. Newbie at dev.to/olenake, @github and my views are my own. ✌️
 
 <h1 align="left">
   👋 Hi, I'm [Onkgopotse](https://github.com/OLenake)
@@ -23,6 +27,7 @@
 > ©️ 2020 Onkgopotse Lenake - ✉️ **Email:** [@Onkgopotse](mailto:onkgopotse@onkgopotselenake.me) &nbsp;&middot;&nbsp;
 > 🔗 **Website:** [OnkgopotseLenake.me](https://www.onkgopotselenake.me/) &nbsp;&middot;&nbsp;
 > 🎓 **LinkedIn:** [@OLenake](https://www.linkedin.com/in/OLenake)
+> [![Onkgopotse Lenake's DEV Profile](https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg)](https://dev.to/olenake) &nbsp;&middot;&nbsp;
 
 ## 📡 Let's Connect
 
