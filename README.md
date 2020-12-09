@@ -1,10 +1,13 @@
 # 👋 Hey, meet [Onkgopotse (OLenake)](https://github.com/OLenake)
 
-- 🛠️ Software Engineer, Designer, Visionary. Currently specialize in financial services technology at **Absa Group**.
-- ⚡ Expertise in C#, SQL, Python, .Net Core + Angular, Typescript, Javascript, HTML and CSS.
+- 🛠️ Software Engineer &nbsp;&middot;&nbsp;
+      Designer &nbsp;&middot;&nbsp;
+      Visionary, Inspiring Greatness
+- 🔭 Currently specializing in financial services and banking systems at **Absa Group**
+- ⚡ Skills in C#, SQL, Python, .Net Core + Angular, Typescript, Javascript, HTML and CSS
 
 ----
-**Say Hello:** [Onkgopotse Lenake](https://www.onkgopotselenake.me/) &nbsp;-&nbsp;
+**Reach Me Online:** [Onkgopotse Lenake](https://www.onkgopotselenake.me/) &nbsp;-&nbsp;
 **Let's Connect:** [@LinkedIn](https://www.linkedin.com/in/OLenake) &nbsp;&middot;&nbsp;
 [@DEVCommunity](https://dev.to/olenake) &nbsp;&middot;&nbsp;
 [@Twitter](https://twitter.com/O_Lenake)
