@@ -1,6 +1,6 @@
 # 👋 Hey, meet [Onkgopotse (OLenake)](https://github.com/OLenake)
 
-- 🛠️ Software Engineer, Designer, Visionary. Currently specialize in financial services at **Absa Group**.
+- 🛠️ Software Engineer, Designer, Visionary. Currently specialize in financial services technology at **Absa Group**.
 - ⚡ Expertise in C#, SQL, Python, .Net Core + Angular, Typescript, Javascript, HTML and CSS.
 
 ----
