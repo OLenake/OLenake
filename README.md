@@ -4,8 +4,8 @@
 - ⚡ Expertise in C#, SQL, Python, .Net Core + Angular, Typescript, Javascript, HTML and CSS.
 
 ----
-**Website:** [Onkgopotse Lenake](https://www.onkgopotselenake.me/) &nbsp;-&nbsp;
-**Connect:** [@LinkedIn](https://www.linkedin.com/in/OLenake) &nbsp;&middot;&nbsp;
+**Say Hello:** [Onkgopotse Lenake](https://www.onkgopotselenake.me/) &nbsp;-&nbsp;
+**Let's Connect:** [@LinkedIn](https://www.linkedin.com/in/OLenake) &nbsp;&middot;&nbsp;
 [@DEVCommunity](https://dev.to/olenake) &nbsp;&middot;&nbsp;
 [@Twitter](https://twitter.com/O_Lenake)
 
