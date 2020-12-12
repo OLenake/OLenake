@@ -7,7 +7,7 @@
 - ⚡ Skills in .Net Core, SQL, C#, Python, Angular, Typescript, Javascript, HTML and CSS
 
 ----
-**Reach Me Online:** [Onkgopotse Lenake](https://www.onkgopotselenake.me/) &nbsp;-&nbsp;
+**Reach Me:** [Onkgopotse Lenake](https://www.onkgopotselenake.me/) &nbsp;-&nbsp;
 **Let's Connect:** [@LinkedIn](https://www.linkedin.com/in/OLenake) &nbsp;&middot;&nbsp;
 [@DEVCommunity](https://dev.to/olenake) &nbsp;&middot;&nbsp;
 [@Twitter](https://twitter.com/O_Lenake)
