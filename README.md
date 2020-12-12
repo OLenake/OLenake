@@ -1,4 +1,4 @@
-# 👋 Hey! Meet [Onkgopotse (OLenake)](https://github.com/OLenake)
+# 👋 Meet [Onkgopotse (OLenake)](https://github.com/OLenake)
 
 - 🛠️ Software Engineer &nbsp;&middot;&nbsp;
       Designer &nbsp;&middot;&nbsp;
