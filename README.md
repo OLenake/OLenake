@@ -1,8 +1,8 @@
-# 👋 Meet [Onkgopotse (OLenake)](https://github.com/OLenake)
+# 👋 Meet [Onkgopotse (OLenake)](https://github.com/OLenake) &nbsp;-&nbsp; Inspiring Greatness
 
 - 🛠️ Software Engineer &nbsp;&middot;&nbsp;
       Designer &nbsp;&middot;&nbsp;
-      Visionary, Inspiring Greatness
+      Visionary
 - 🔭 Currently specializing in financial services and banking systems at **Absa Group**
 - ⚡ Skills in C#, SQL, Python, .Net Core + Angular, Typescript, Javascript, HTML and CSS
 
