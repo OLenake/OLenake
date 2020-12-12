@@ -4,7 +4,7 @@
       Designer &nbsp;&middot;&nbsp;
       Visionary
 - 🔭 Currently specializing in financial services and banking systems at **Absa Group**
-- ⚡ Skills in C#, SQL, Python, .Net Core + Angular, Typescript, Javascript, HTML and CSS
+- ⚡ Skills in .Net Core, SQL, C#, Python, Angular, Typescript, Javascript, HTML and CSS
 
 ----
 **Reach Me Online:** [Onkgopotse Lenake](https://www.onkgopotselenake.me/) &nbsp;-&nbsp;
